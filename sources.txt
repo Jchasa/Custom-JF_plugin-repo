@@ -1,12 +1,12 @@
 # https://raw.githubusercontent.com/shemanaev/jellyfin-plugin-repo/master/manifest.json
 https://app.lizardbyte.dev/jellyfin-plugin-repo/manifest.json
-https://github.com/cxfksword/jellyfin-plugin-danmu/releases/download/manifest/manifest.json
-https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/manifest/manifest.json
+
+
 https://github.com/lachlandcp/jellyfin-editors-choice-plugin/raw/main/manifest.json
 https://jellyfin-repo.jesseward.com/manifest.json
-https://kookxiang.github.io/jellyfin-plugin-bangumi/repository.json
+
 https://noonamer.github.io/Jellyfin.Plugin.LocalPosters/repository.json
-https://raw.githubusercontent.com/9p4/jellyfin-plugin-sso/manifest-release/manifest.json
+
 https://raw.githubusercontent.com/AECX/FinTube/master/manifest.json
 
 https://raw.githubusercontent.com/cedev-1/Jellyfin-Plugin-DiscordNotifier/master/manifest.json
@@ -24,12 +24,12 @@ https://raw.githubusercontent.com/iankiller77/MyAnimeSync/main/manifest.json
 
 https://raw.githubusercontent.com/intro-skipper/manifest/refs/heads/main/10.11/manifest.json
 https://raw.githubusercontent.com/johnpc/jellyfin-plugin-smart-collections/refs/heads/main/manifest.json
-https://raw.githubusercontent.com/johnpc/jellyfin-plugin-top-ten/refs/heads/main/manifest.json
+
 https://raw.githubusercontent.com/jon4hz/jellyfin-plugin-jellysleep/main/manifest.json
 https://raw.githubusercontent.com/jyourstone/jellyfin-plugin-manifest/main/manifest.json
 https://raw.githubusercontent.com/jyourstone/jellyfin-plugin-manifest/master/manifest.json
 https://raw.githubusercontent.com/KeksBombe/jellyfin-plugin-auto-collections/refs/heads/main/manifest.json
-https://raw.githubusercontent.com/lostb1t/Gelato/refs/heads/gh-pages/repository.json
+
 https://raw.githubusercontent.com/lostb1t/jellyfin-plugin-collection-import/main/manifest.json
 https://raw.githubusercontent.com/luall0/jellyfin-luall0-plugins/refs/heads/main/manifest.json
 https://raw.githubusercontent.com/metatube-community/jellyfin-plugin-metatube/dist/manifest.json
